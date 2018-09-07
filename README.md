@@ -1,3 +1,3 @@
 # nlp
-# ML
-- KNN
+- ML
+* KNN
